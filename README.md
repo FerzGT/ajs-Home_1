@@ -105,3 +105,5 @@ export function getLevel(userId) {
 Сделайте моки для функции fetchData и напишите тесты таким образом, чтобы обеспечить 100% покрытие тестами функции getLevel по строкам.
 
 Обратите внимание: тесты вам надо писать для функции getLevel
+
+[![Build Status](https://github.com/FerzGT/ajs-Home_1.git)](https://github.com/FerzGT/ajs-Home_1.git)

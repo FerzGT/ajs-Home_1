@@ -24,3 +24,7 @@ test_script:
   - cargo build --verbose
   # Запускаем тесты
   - cargo test --verbose
+
+  cache:
+  - '%USERPROFILE%\.cargo'
+  - target
