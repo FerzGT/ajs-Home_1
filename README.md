@@ -106,4 +106,4 @@ export function getLevel(userId) {
 
 Обратите внимание: тесты вам надо писать для функции getLevel
 
-[![Build Status](https://github.com/FerzGT/ajs-Home_1.git)](https://github.com/FerzGT/ajs-Home_1.git)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/mkpankov/hello)](https://ci.appveyor.com/api/projects/status/github/mkpankov/hello)
