@@ -1,2 +1,3 @@
-import healthPlayr from './healthPlayr.js';
-healthPlayr(70);
+import healthPlayr from './healthPlayrs.js';
+
+healthPlayr();

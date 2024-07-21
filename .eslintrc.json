@@ -20,6 +20,12 @@
             "error",
             "LabeledStatement",
             "WithStatement"
-        ]
+        ],
+        "import/extensions": [
+            "error",
+            {
+                "js": "ignorePackages"
+            }]
+
     }
 }
